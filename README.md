@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on HGI Insurance API.
-- 🌱 I’m currently learning Microservices Architecture.
+- 🌱 I’m currently learning Microservices Based Architecture using nodejs.
 - 👯 I’m looking to collaborate on any web-based projects.
 - 🤔 I’m looking for help to work in core nodejs modules.
 - 💬 Ask me about javascript, php, nodejs , threejs , laravel or angular frameworks.
