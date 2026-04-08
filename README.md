@@ -2,7 +2,7 @@
 
 Node.js · TypeScript · AWS · IoT · Kubernetes · PostgreSQL
 
-**What I built:**
+**What I build:**
 - Real-time IoT data pipelines (MQTT → InfluxDB → alerting)  
 - Geospatial APIs and map tile systems (Airport, 5000+ venues)
 - Microservices platforms (gRPC, AMQP, Nest.js, Docker, EKS)
